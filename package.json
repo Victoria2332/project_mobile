@@ -1,0 +1,22 @@
+{
+  "name": "project_mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoria2332/project_mobile.git"
+  },
+  "author": "Victoria Sushina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoria2332/project_mobile/issues"
+  },
+  "homepage": "https://github.com/Victoria2332/project_mobile#readme",
+  "devDependencies": {
+    "sass": "^1.63.6"
+  }
+}
