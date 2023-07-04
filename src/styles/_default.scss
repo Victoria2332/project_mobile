@@ -1,3 +1,10 @@
+::-webkit-scrollbar {
+  width: 3px;
+}
+ ::-webkit-search-thumb {
+  background-color: $primary-color;
+ }
+
 html,
 body {
   font-family: $font-family;
@@ -5,4 +12,8 @@ body {
 
   color: $secondary-color;
   overflow-x: hidden;
+}
+
+.container {
+  @include container ();
 }
